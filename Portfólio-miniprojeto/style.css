@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(26, 24, 24);
+    height: 100vh;
+}
+#cabeça{
+    background-color: rgb(59, 59, 49);
+    height: 100px;
+    width: 1000px;
+  font-family:monospace;
+  margin-left:500px ;
+
+}
+#conteudoprincipal{
+    background-color: rgb(66, 62, 60);
+    height: 1000px;
+    width: 1000px;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#rodapé{
+    background-color: rgb(243, 237, 159);
+    height: 100px;
+    width: 1000px;
+    margin-left: 500px;
+}
+
+.subs{
+    font-family: monospace;
+    margin-left:150px;
+    color:#ece798;
+    margin-top: 50px;    }
+.imagens1{
+    width: 150px;
+    margin-left:50px ;
+}
+p{
+    margin-right: 500px;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: blanchedalmond;
+    }
+#logo{
+    width: 100px;
+}
+.navegaçao{
+    flex-direction: column;
+    font-size:x-large;
+    margin-left: 50%;
+   
+}
+#subs2{
+    font-family: monospace;
+    margin-left:90px;
+    color:rgb(236, 231, 152);
+    margin-top: 50px;   
+}
+.imagnes2{
+    width:250px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+.pics{
+    margin-left: 50%;
+    width: 900px;
+    position: relative;
+    top: -90%;
+    left:-15%
+}
